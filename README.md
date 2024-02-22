@@ -1,12 +1,14 @@
 <div align="center">
-<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Project Logo" width="200">
-</div>
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
 
 BTU is your robust tool for scheduling and automating tasks within your web application. It serves as an efficient alternative to existing scheduled job types, facilitating on-demand task execution, email notifications, and command line interaction. 
 
-- [Explore the Docs](https://datahenge.github.io/btu/)
-- [Report Bug](https://github.com/empress-eco/background_tasks/issues)
-- [Request Feature](https://github.com/empress-eco/background_tasks/issues)
+[Explore the Docs](https://datahenge.github.io/btu/) |
+[Report Bug](https://github.com/empress-eco/background_tasks/issues) |
+[Request Feature](https://github.com/empress-eco/background_tasks/issues)
+</div>
+
+
 
 ## About The Project
 
